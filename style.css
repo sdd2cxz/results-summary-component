@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
 :root{
     --Primary-Light-red: hsl(0, 100%, 67%);
     --Primary-Orangey-yellow: hsl(39, 100%, 56%);
@@ -25,6 +27,7 @@
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     height: 100vh;
+    font-family: 'Hanken Grotesk', sans-serif;
   }
   
   img, picture, video, canvas, svg {
