@@ -11,34 +11,44 @@
 
 </head>
 <body>
-  <main>
-    <article>
+  <main class="resultBox">
+    <article class="resultBox__result">
 
-      Your Result
-      76
-      of 100
-      
+     <p>Your Result</p> 
+     <div>
+       <p>76</p>
+       <p>of 100</p>
+      </div>
+       
       Great
       You scored higher than 65% of the people who have taken these tests.
       
-      Summary
-      
-      Reaction
-      80 / 100
-      
-      Memory
-      92 / 100
-      
-      Verbal
-      61 / 100
-      
-      Visual
-      72 / 100
-      
-      Continue
-      
     </article>
-    </main>
+    <article class="resultBox__summary">
+
+      <p class="resultBox__summary--title">Summary</p>
+      <div class="resultBox__summary--elements">
+        <div class="resultBox__summary--skill">
+          Reaction
+          80 / 100
+        </div >
+        <div class="resultBox__summary--skill">
+          Memory
+          92 / 100
+        </div>
+        <div class="resultBox__summary--skill">
+          Verbal
+          61 / 100
+        </div>
+        <div class="resultBox__summary--skill">
+          Visual
+          72 / 100
+        </div>
+      </div>
+      <button class="btn">Continue</button>
+        
+    </article>
+  </main>
     <div class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
       Coded by <a href="#">Your Name Here</a>.
