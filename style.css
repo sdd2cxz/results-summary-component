@@ -123,6 +123,7 @@ h6 {
   border-radius: 50%;
   display: grid;
   place-items: center;
+  align-content: center;
   width: 12rem;
   aspect-ratio: 1/1;
 }
