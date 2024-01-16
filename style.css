@@ -222,7 +222,7 @@ h6 {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 500px) {
+@media (min-width: 600px) {
   body {
     min-height: 100vh;
     display: grid;
