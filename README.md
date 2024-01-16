@@ -2,4 +2,4 @@
 
 https://sdd2cxz.github.io/results-summary-component/
 
-./preview.png
+![Design preview](./preview.jpg)
