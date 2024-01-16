@@ -241,11 +241,6 @@ h6 {
 }
 
 
-
-
-
-
-
 @media (min-width: 650px) {
   body {
     min-height: 100vh;
@@ -261,8 +256,6 @@ h6 {
     border-radius: 30px;
   }
 }
-
-
 
 .attribution {
   font-size: 11px;
